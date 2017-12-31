@@ -1,22 +1,13 @@
 {
 	"FileVersion": 3,
-	"Version": 0,
-	"VersionName": "0.0",
-	"EngineVersion": "4.2.1-0+UE4",
-	"PackageFileUE4Version": 363,
-	"PackageFileLicenseeUE4Version": 0,
-	"FriendlyName": "",
-	"Description": "",
+	"EngineAssociation": "4.18",
 	"Category": "",
-	"CreatedBy": "",
-	"CreatedByURL": "",
+	"Description": "",
 	"Modules": [
 		{
 			"Name": "BrickGame",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
-	],
-	"EpicSampleNameHash": "0",
-	"EngineAssociation": "4.14"
+	]
 }

@@ -19,6 +19,13 @@ namespace UnrealBuildTool.Rules
 					"RHI"
 				}
 				);
-		}
+
+            PrivateDependencyModuleNames.AddRange(
+                new string[]
+                {
+                    "BrickGrid"
+                }
+                );
+        }
 	}
 }
